@@ -1,7 +1,3 @@
-import com.sun.nio.sctp.AbstractNotificationHandler;
-
-import java.util.ArrayList;
-
 /**
  * Cette classe sert de plan pour l'écriture d'un jeu de bataille navale
  * en language d'assembleur Pep8.
